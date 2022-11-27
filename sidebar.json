@@ -1,0 +1,24 @@
+{
+    "english": {
+        "meet now": "Meet Now",
+        "schedule": "Schedule",
+        "projects": "Projects",
+        "recents": "Recents",
+        "calendar": "Calendar",
+        "teams": "Teams",
+        "participants requirement": "Participants Requirement",
+        "participants management": "Participants Management",
+        "logout": "Logout"
+    },
+    "turkish": {
+        "meet now": "Şimdi buluş",
+        "schedule": "takvim",
+        "projects": "projeler",
+        "recents": "sonlar",
+        "calendar": "Takvim",
+        "teams": "Takımlar",
+        "participants requirement": "Katılımcı alımı",
+        "participants management": "Katılımcı Yönetimi",
+        "logout": "Çıkış Yap"
+    }
+}
